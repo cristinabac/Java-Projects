@@ -1,0 +1,6 @@
+1,Gabor Emanuel,0
+2,Zaharia Camelia,0
+3,Eremia Catalin,0
+4,Zakor Cristian,0
+5,Andro Bianca,0
+6,Cristea Denisa,0

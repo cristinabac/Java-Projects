@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><clienttest>
+        <client id="1">
+            <name>Gabor Mihnea</name>
+            <moneySpent>0</moneySpent>
+        </client>
+        <client id="2">
+            <name>Giurgiu Alexandra</name>
+            <moneySpent>0</moneySpent>
+        </client>
+        <client id="3">
+            <name>Zakor Mirela</name>
+            <moneySpent>0</moneySpent>
+        </client>
+</clienttest>

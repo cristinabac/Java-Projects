@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><books>
+    <book id="1">
+        <title>Poezii</title>
+        <author>Eminescu</author>
+        <price>10</price>
+    </book>
+    <book id="2">
+        <title>Opere</title>
+        <author>Arghezi</author>
+        <price>15</price>
+    </book>
+    <book id="3">
+        <title>Idiotul</title>
+        <author>Dostoievski</author>
+        <price>20</price>
+    </book>
+</books>

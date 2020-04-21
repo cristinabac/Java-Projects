@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><clients>
+    <client id="1">
+        <name>Gabor Mihnea</name>
+        <moneySpent>0</moneySpent>
+    </client>
+    <client id="2">
+        <name>Giurgiu Alexandra</name>
+        <moneySpent>0</moneySpent>
+    </client>
+    <client id="3">
+        <name>Zakor Mirela</name>
+        <moneySpent>0</moneySpent>
+    </client>
+    <client id="4">
+        <name>Petrisor Mara</name>
+        <moneySpent>0</moneySpent>
+    </client>
+    <client id="5">
+        <name>Trandas Teodora</name>
+        <moneySpent>0</moneySpent>
+    </client>
+<client id="121"><name>ana</name><moneySpent>0</moneySpent></client></clients>

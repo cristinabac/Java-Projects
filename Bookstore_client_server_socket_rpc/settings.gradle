@@ -1,0 +1,6 @@
+rootProject.name = '921_alb_bacotiu_serverclient_bookstore'
+include 'Server'
+include 'Common'
+include 'Client'
+include 'kk'
+
